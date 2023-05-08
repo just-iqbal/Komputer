@@ -11,7 +11,7 @@ $dbfutsal = new database;
 </head>
 <body>
     <div class="all">
-    <div class="judul">
+    <div class="head">
         <h1>komponen OK</h1>
     </div>
 

@@ -40,5 +40,7 @@ class database{
         }
         return $hasil;
     }
+
+    // 
 }
 ?>

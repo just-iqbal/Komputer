@@ -25,7 +25,7 @@
      </div>
      <div class="box" style="margin: 50px;">
      <h3 style="text-align: center; margin-bottom: 30 px"> Selamat Datang Di Toko Komputer <br> Tempat dimana anda bisa Dapat Perlengkapan Komputer anda! </h2>
-     <img src="https://i.ibb.co/J5BXDvM/download.png" style="margin-left: 422px;">
+     <img src="Decul.jpg" style="margin-left: 255px;">
      </div>
 </body>
 </html>
